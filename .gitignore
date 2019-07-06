@@ -42,3 +42,7 @@ src/version.h
 lib/
 share/
 include/darknet/
+darknet
+
+# weights
+*.conv*
